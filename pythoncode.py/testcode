@@ -1,5 +1,0 @@
-print("HelloWorld")
-
-for i in range(5) print("f")
-a = input()
-print(a)
